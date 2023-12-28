@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="UserTest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24bf4846-fda5-47f2-bc6d-9282d2bac187" name="Default Changelist" comment="敬老院后台框架">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nursing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Project Files" color="c7edcc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createDate</find>
+      <find>ouster-addd</find>
+      <find>TIMESTAMP</find>
+      <find>updateUserById</find>
+      <find>admin-editt</find>
+      <find>update</find>
+      <find>admin-edit</find>
+      <find>updateBedStatus</find>
+      <find>bedInfo</find>
+      <find>selectBedNoUser</find>
+      <find>s</find>
+      <find>findUserByRole</find>
+      <find>bedAdd</find>
+      <find>bedAdd1</find>
+      <find>skin-minimal</find>
+      <find>getUresp</find>
+      <find>/ulogin</find>
+      <find>uresp</find>
+      <find>getEmployeeRespUsername</find>
+      <find>exp</find>
+      <find>#ex</find>
+      <find>junit</find>
+      <find>uregister</find>
+      <find>transform</find>
+      <find>getUserMonthSingle</find>
+      <find>继续添加</find>
+      <find>/uregister</find>
+      <find>main</find>
+      <find>h4</find>
+      <find>.main .title h4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/controller/ClassController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/classBySingle.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/InformationMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/InformationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/impl/InformationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/controller/InformationController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user-edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mbg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/entity/Month.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/getUserMonthSingle.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/showInsertView.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/SalaryMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/controller/SalaryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/SalaryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/dao/SalaryMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/impl/SalaryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editShowEverySalary.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pieChart.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/salaryByUidAndMid.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/getAllSalary.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/informationAdd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/bedAdd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin-edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/singleInfo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/elderly-list-is.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employeeInfo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/message_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/message_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/auth/auth.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cost.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/controller/NoticeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/dao/ClassMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/entity/Salary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/service/impl/BodyinfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/util/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/informationById.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/informationFix.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/test/Test7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/test/G.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/util/ExcelUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ssm/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/information.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/information/statics/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\maven\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven" />
+        <option name="userSettingsFile" value="C:\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserTest Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserTest Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserTest Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserTest Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="37" />
+    <option name="width" value="1244" />
+    <option name="height" value="568" />
+  </component>
+  <component name="ProjectId" id="1UaS3pLK159aFh0QfgnQqujdQ3x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="beadhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beadhouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/迅雷下载/qq/PracticalProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7fe817f5d5a38fd1bc618ce80390a54a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13672\Desktop\beadhouse\src\main\webapp\information\img" />
+      <recent name="F:\IntelliJ idea\workspace\MavenProjects\beadhouse\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ssm.util" />
+      <recent name="com.ssm.entity" />
+      <recent name="com.ssm.service.impl" />
+      <recent name="com.ssm.service" />
+      <recent name="com.ssm.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\bishe\beadhouse\src\main\webapp\file" />
+      <recent name="F:\bishe\beadhouse\src\main\webapp\information" />
+      <recent name="F:\bishe\beadhouse\src\main\webapp\information\statics\images" />
+      <recent name="F:\bishe\beadhouse\src\main\webapp\auth" />
+      <recent name="F:\bishe\beadhouse\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.TestGenerator">
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssm.test.Test7" />
+      <module name="UserTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ssm.test.TestGenerator" />
+      <module name="UserTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssm.test.test1" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssm.test.test8" />
+      <module name="UserTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.tt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beadhouse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="METHOD_NAME" value="tt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 " />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="UserTest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_beadhouse_6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53892" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="53893" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="UserTest:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserTest.tt" />
+      <item itemvalue="Tomcat 服务器.Tomcat 8.5.38" />
+      <item itemvalue="应用程序.Test7" />
+      <item itemvalue="应用程序.TestGenerator" />
+      <item itemvalue="应用程序.test1" />
+      <item itemvalue="应用程序.test8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.TestGenerator" />
+        <item itemvalue="应用程序.Test7" />
+        <item itemvalue="应用程序.test8" />
+        <item itemvalue="JUnit.UserTest.tt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22336066" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24bf4846-fda5-47f2-bc6d-9282d2bac187" name="Default Changelist" comment="" />
+      <created>1567393521835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567393521835</updated>
+      <workItem from="1567393526807" duration="2541000" />
+      <workItem from="1567436080631" duration="2921000" />
+      <workItem from="1567466341794" duration="4819000" />
+      <workItem from="1567478236811" duration="3045000" />
+      <workItem from="1567481437534" duration="6207000" />
+      <workItem from="1567498071661" duration="15238000" />
+      <workItem from="1567557082561" duration="33148000" />
+      <workItem from="1567643569396" duration="32348000" />
+      <workItem from="1567729561321" duration="31790000" />
+      <workItem from="1567815937443" duration="19067000" />
+      <workItem from="1567846895683" duration="3842000" />
+      <workItem from="1567988727162" duration="22953000" />
+      <workItem from="1568033071845" duration="8001000" />
+      <workItem from="1568075896391" duration="9940000" />
+      <workItem from="1568185969028" duration="13405000" />
+      <workItem from="1568210036304" duration="7064000" />
+      <workItem from="1568247445164" duration="6175000" />
+      <workItem from="1568597610763" duration="2015000" />
+      <workItem from="1568614330526" duration="2231000" />
+      <workItem from="1568641682865" duration="66000" />
+      <workItem from="1568683551989" duration="82000" />
+      <workItem from="1569477948237" duration="275000" />
+      <workItem from="1569504264058" duration="73000" />
+      <workItem from="1569544820908" duration="4942000" />
+      <workItem from="1569566890053" duration="13000" />
+      <workItem from="1569566926881" duration="493000" />
+      <workItem from="1569568079685" duration="364000" />
+      <workItem from="1569568663184" duration="2232000" />
+      <workItem from="1569652614606" duration="4120000" />
+      <workItem from="1570074210364" duration="11000" />
+      <workItem from="1570584723393" duration="43000" />
+      <workItem from="1570592445930" duration="44000" />
+      <workItem from="1570592523574" duration="473000" />
+      <workItem from="1571021545915" duration="38000" />
+      <workItem from="1571021660886" duration="16000" />
+      <workItem from="1571187863811" duration="2939000" />
+      <workItem from="1571272786955" duration="33000" />
+      <workItem from="1571365468022" duration="674000" />
+      <workItem from="1572065542773" duration="1157000" />
+      <workItem from="1572227910290" duration="715000" />
+      <workItem from="1572231315665" duration="663000" />
+      <workItem from="1572267144150" duration="35000" />
+      <workItem from="1572330787023" duration="141000" />
+      <workItem from="1572596415580" duration="756000" />
+      <workItem from="1572599306020" duration="79000" />
+      <workItem from="1573616645481" duration="1629000" />
+      <workItem from="1574048373406" duration="837000" />
+      <workItem from="1575593019585" duration="7251000" />
+      <workItem from="1576029384163" duration="8757000" />
+      <workItem from="1576129743962" duration="1996000" />
+      <workItem from="1576217476762" duration="4724000" />
+      <workItem from="1577266636102" duration="638000" />
+      <workItem from="1577330095858" duration="115000" />
+      <workItem from="1578897152314" duration="1978000" />
+      <workItem from="1578900257967" duration="594000" />
+      <workItem from="1578901341874" duration="1191000" />
+      <workItem from="1578907289514" duration="783000" />
+      <workItem from="1579140395144" duration="135000" />
+      <workItem from="1579437593671" duration="276000" />
+      <workItem from="1579489131654" duration="93000" />
+      <workItem from="1580383490407" duration="27000" />
+      <workItem from="1581230888024" duration="685000" />
+      <workItem from="1581302480737" duration="1476000" />
+      <workItem from="1581405686108" duration="476000" />
+      <workItem from="1582792281005" duration="1005000" />
+      <workItem from="1582793813959" duration="202000" />
+      <workItem from="1583637830249" duration="22892000" />
+      <workItem from="1583712862758" duration="17994000" />
+      <workItem from="1583800826710" duration="42146000" />
+      <workItem from="1583848261964" duration="1293000" />
+      <workItem from="1583886190581" duration="39355000" />
+      <workItem from="1583972446889" duration="1591000" />
+      <workItem from="1583976752018" duration="38389000" />
+      <workItem from="1584024252076" duration="53367000" />
+      <workItem from="1584151853801" duration="364000" />
+      <workItem from="1584152673242" duration="38814000" />
+      <workItem from="1584196831435" duration="23000" />
+      <workItem from="1584232789444" duration="20329000" />
+      <workItem from="1584269631022" duration="1669000" />
+      <workItem from="1586312043266" duration="1424000" />
+      <workItem from="1586313606274" duration="6840000" />
+      <workItem from="1586394507812" duration="710000" />
+      <workItem from="1586398054302" duration="626000" />
+      <workItem from="1586490383556" duration="597000" />
+      <workItem from="1586654534809" duration="1509000" />
+      <workItem from="1586738807581" duration="1627000" />
+      <workItem from="1586831722252" duration="3242000" />
+      <workItem from="1586910997147" duration="1224000" />
+      <workItem from="1586915229989" duration="3473000" />
+      <workItem from="1587000232870" duration="1952000" />
+      <workItem from="1587044798743" duration="679000" />
+      <workItem from="1587087484291" duration="2971000" />
+      <workItem from="1587170213528" duration="1239000" />
+      <workItem from="1587198927572" duration="424000" />
+      <workItem from="1587200941846" duration="1547000" />
+      <workItem from="1587465304008" duration="2074000" />
+      <workItem from="1587468201296" duration="5626000" />
+      <workItem from="1587698248501" duration="2429000" />
+      <workItem from="1587702974856" duration="4188000" />
+      <workItem from="1587709928052" duration="5897000" />
+      <workItem from="1587775442784" duration="3571000" />
+      <workItem from="1693048366267" duration="1005000" />
+      <workItem from="1693049522292" duration="14000" />
+      <workItem from="1693117674907" duration="4877000" />
+      <workItem from="1693999747147" duration="603000" />
+      <workItem from="1703760442266" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserTest_tt - 2019.09.04 at 11h 05m 21s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 11h 06m 52s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 11h 10m 38s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 11h 16m 58s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 11h 17m 17s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 13h 52m 15s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 18h 50m 49s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 18h 51m 09s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 19h 00m 28s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_tt - 2019.09.04 at 19h 00m 42s.xml">
+      <configuration name="UserTest.tt" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="336090000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48118812" visible="true" weight="0.16823056" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5188119" side_tool="true" weight="0.20308311" />
+      <window_info id="JRebel" order="8" sideWeight="0.51877135" side_tool="true" weight="0.20308311" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.24752475" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37623763" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.1513437" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.2602546" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Problems" order="16" weight="0.32956153" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" sideWeight="0.40013406" weight="0.5304102" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" sideWeight="0.599866" side_tool="true" weight="0.60678923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981203" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5018797" side_tool="true" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48656294" visible="true" weight="0.25938338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50777936" side_tool="true" weight="0.22117962" />
+      <window_info id="JRebel" order="8" sideWeight="0.51343703" side_tool="true" weight="0.24061662" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.7397454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37623763" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.1513437" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.2602546" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Problems" order="16" weight="0.32956153" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" sideWeight="0.33512065" visible="true" weight="0.20084865" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" sideWeight="0.50067025" side_tool="true" weight="0.3026874" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4981203" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5018797" side_tool="true" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="敬老院后台框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="敬老院后台框架" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ssm/service/impl/ClassServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/beadhouse$Tomcat_8_5_38.ic" NAME="Tomcat 8.5.38 Coverage Results" MODIFIED="1584019294890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/service/DormitoryService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/service/InformationService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/service/impl/ClassServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/service/BedService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/service/impl/BodyinfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/BedMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/util/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/util/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/entity/Notice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/controller/EmailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/entity/Cost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/entity/ForList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/entity/ExcelBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/UserTest/file/info33.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/UserTest/file/pic1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/UserTest/file/info22.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/UserTest/file/beiying.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/informationById.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/test/test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/test/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/test/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/test/D.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/test/test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/util/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="174" column="54" selection-start-line="174" selection-start-column="54" selection-end-line="174" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/util/StringUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/util/ExcelUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="223" column="5" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/controller/SalaryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mail.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/controller/BedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/welcome/img/login.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/welcome/img/login.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/file/login.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/auth/kodinger.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/auth/room.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../maven/.m2/repository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/AbandonedConnectionCleanupThread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/information.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="73" column="50" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/informationFix.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/information/statics/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/information/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="306" column="15" lean-forward="true" selection-start-line="306" selection-start-column="15" selection-end-line="306" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>UserTest:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
